@@ -19,7 +19,7 @@ app.use('/api/students',StudentsRoutes)
 
 
 app.get("/",(req,res)=>{
-    res.send("Server is running")
+    res.send("Mazhar Server is running")
 })
 
 
